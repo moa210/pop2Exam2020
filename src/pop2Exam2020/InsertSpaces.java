@@ -5,7 +5,6 @@ package pop2Exam2020;
 
 public class InsertSpaces {
     
-    
     public static void main(String[] args) {
         
         String w = "World";
@@ -17,14 +16,14 @@ public class InsertSpaces {
     
     private static String insertSpaces(String w) {
         char[] chars = w.toCharArray();
-        String newStr = "";
+        StringBuilder newStr = new StringBuilder();
         for (int i = 0; i < chars.length - 1; i++) {
-            newStr += chars[i];
-            newStr += ' ';
+            newStr.append(chars[i]);
+            newStr.append(' ');
         }
-        newStr += chars[chars.length - 1];
-        return newStr;
+        newStr.append(chars[chars.length - 1]);
         
+        return newStr.toString();
     }
     
     
