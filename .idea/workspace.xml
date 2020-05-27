@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9960d53-8e81-41b5-af95-63612045e4ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pop2Exam2020/SecondLowest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pop2Exam2020/ToggleCaps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pop2Exam2020/InsertSpaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pop2Exam2020/InsertSpaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pop2Exam2020/SecondLowest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pop2Exam2020/SecondLowest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pop2Exam2020/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pop2Exam2020/Time.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Application.ToggleCaps">
+  <component name="RunManager" selected="Application.Time">
     <configuration name="InsertSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pop2Exam2020.InsertSpaces" />
       <module name="pop2Exam2020" />
@@ -81,6 +80,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pop2Exam2020.Time" />
+      <module name="pop2Exam2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pop2Exam2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ToggleCaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pop2Exam2020.ToggleCaps" />
       <module name="pop2Exam2020" />
@@ -96,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Time" />
         <item itemvalue="Application.ToggleCaps" />
         <item itemvalue="Application.InsertSpaces" />
         <item itemvalue="Application.SumEven" />
@@ -114,7 +127,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590400109800</updated>
       <workItem from="1590400111312" duration="1771000" />
-      <workItem from="1590576092200" duration="7379000" />
+      <workItem from="1590576092200" duration="12848000" />
     </task>
     <servers />
   </component>
@@ -134,22 +147,38 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="421" y="583" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1440@0.0.2560.1440" timestamp="1590577483070" />
-    <state width="1310" height="391" key="GridCell.Tab.0.bottom" timestamp="1590587830881">
+    <state width="1310" height="391" key="GridCell.Tab.0.bottom" timestamp="1590592383119">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1310" height="391" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1590587830881" />
-    <state width="1310" height="391" key="GridCell.Tab.0.center" timestamp="1590587830880">
+    <state width="1310" height="391" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1590592383119" />
+    <state width="1310" height="391" key="GridCell.Tab.0.center" timestamp="1590592383118">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1310" height="391" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1590587830880" />
-    <state width="1310" height="391" key="GridCell.Tab.0.left" timestamp="1590587830878">
+    <state width="1310" height="391" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1590592383118" />
+    <state width="1310" height="391" key="GridCell.Tab.0.left" timestamp="1590592383116">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1310" height="391" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1590587830878" />
-    <state width="1310" height="391" key="GridCell.Tab.0.right" timestamp="1590587830881">
+    <state width="1310" height="391" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1590592383116" />
+    <state width="1310" height="391" key="GridCell.Tab.0.right" timestamp="1590592383118">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1310" height="391" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1590587830881" />
+    <state width="1310" height="391" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1590592383118" />
+    <state width="1310" height="519" key="GridCell.Tab.1.bottom" timestamp="1590592177905">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1310" height="519" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1590592177905" />
+    <state width="1310" height="519" key="GridCell.Tab.1.center" timestamp="1590592177904">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1310" height="519" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1590592177904" />
+    <state width="1310" height="519" key="GridCell.Tab.1.left" timestamp="1590592177903">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1310" height="519" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1590592177903" />
+    <state width="1310" height="519" key="GridCell.Tab.1.right" timestamp="1590592177904">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1310" height="519" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1590592177904" />
     <state x="1386" y="362" key="Registry" timestamp="1590400303470">
       <screen x="0" y="23" width="2560" height="1365" />
     </state>
@@ -158,10 +187,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="177" y="359" width="1101" height="722" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1590580674903" />
-    <state x="341" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1590588156214">
+    <state x="341" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1590593093497">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="341" y="331" width="670" height="676" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1590588156214" />
+    <state x="341" y="331" width="670" height="676" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1590593093497" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

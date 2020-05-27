@@ -3,6 +3,8 @@
 
 package pop2Exam2020;
 
+import java.util.HashMap;
+
 public class SecondLowest {
     
     public static void main(String[] args) {
@@ -17,8 +19,18 @@ public class SecondLowest {
     
     
     private static int secondLowest(int[] b) {
-        int scndLowest = 0;
-        
+        int scndLowest = 1;
+        HashMap<Integer, Integer> intMap = new HashMap<Integer, Integer>();
+        int[] c = b.clone();
+        int keyVal = 1;
+        for (int value : b) {
+            for (int j = 0; j < b.length; j++) {
+                if (intMap.containsValue(value)) {
+                    keyVal++;
+                    intMap.replace(keyVal, value);
+                } else intMap.put(1, value);
+            }
+        }
         
         return scndLowest;
     }
