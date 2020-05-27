@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9960d53-8e81-41b5-af95-63612045e4ca" name="Default Changelist" comment="" />
+    <list default="true" id="d9960d53-8e81-41b5-af95-63612045e4ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/pop2Exam2020/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pop2Exam2020/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pop2Exam2020/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pop2Exam2020/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pop2Exam2020/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pop2Exam2020/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pop2Exam2020/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +32,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1cOWRERukBCpaMFFtjGIkyPC0fm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,6 +43,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -61,7 +73,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590400109800</updated>
-      <workItem from="1590400111312" duration="1175000" />
+      <workItem from="1590400111312" duration="1771000" />
+      <workItem from="1590576092200" duration="1485000" />
     </task>
     <servers />
   </component>
@@ -69,9 +82,52 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="276" y="385" key="#Inspections" timestamp="1590577565103">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="276" y="385" key="#Inspections/0.0.2560.1440@0.0.2560.1440" timestamp="1590577565103" />
+    <state x="416" y="428" key="#com.intellij.ide.util.MemberChooser" timestamp="1590576548510">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="416" y="428" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1590576548510" />
+    <state x="421" y="583" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590577483071">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="421" y="583" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1440@0.0.2560.1440" timestamp="1590577483070" />
+    <state width="1232" height="391" key="GridCell.Tab.0.bottom" timestamp="1590402105818">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1232" height="391" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1590402105818" />
+    <state width="1232" height="391" key="GridCell.Tab.0.center" timestamp="1590402105818">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1232" height="391" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1590402105818" />
+    <state width="1232" height="391" key="GridCell.Tab.0.left" timestamp="1590402105817">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1232" height="391" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1590402105817" />
+    <state width="1232" height="391" key="GridCell.Tab.0.right" timestamp="1590402105818">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1232" height="391" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1590402105818" />
     <state x="1386" y="362" key="Registry" timestamp="1590400303470">
       <screen x="0" y="23" width="2560" height="1365" />
     </state>
     <state x="1386" y="362" key="Registry/0.23.2560.1365@0.23.2560.1365" timestamp="1590400303470" />
+    <state x="177" y="359" width="1101" height="722" key="SettingsEditor" timestamp="1590577457184">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="177" y="359" width="1101" height="722" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1590577457184" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q1/Main.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
